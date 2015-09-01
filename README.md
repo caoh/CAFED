@@ -1,5 +1,5 @@
 # CAFED
-Collaborative Annotation Framework for Energy Datasets
+Collaborative Annotation Framework for Energy Datasets available at https://cafed.inf.ethz.ch
 
 ##Platform details
 - Server: Apache
@@ -13,4 +13,5 @@ Collaborative Annotation Framework for Energy Datasets
     * (Bootstrap) [http://getbootstrap.com]
   * Modules:
     * Curve plotting: (Dygraphs) [http://dygraphs.com]
+    
   
